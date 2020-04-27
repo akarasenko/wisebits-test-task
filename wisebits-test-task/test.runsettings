@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="URL" value="https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all" />
+		<Parameter name="ContactNameDataForTest1" value="Giovanni Rovelli" />
+		<Parameter name="AddressDataForTest1" value="Via Ludovico il Moro 22" />
+		<Parameter name="CityDataForTest2" value="London" />
+	</TestRunParameters>
+</RunSettings>
